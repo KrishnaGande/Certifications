@@ -1,2 +1,2 @@
 # ML-Codes
-Coursera Programming Assignments
+Coursera Machine Learning Certificate
